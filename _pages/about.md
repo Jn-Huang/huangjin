@@ -11,7 +11,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am Jin Huang, an junior student majoring Computer Science at University of Michigan, Ann Arbor. My research interest lies in grpah neural networks and interpretable AI.
