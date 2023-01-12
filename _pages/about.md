@@ -14,4 +14,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am Jin Huang, an junior student majoring Computer Science at University of Michigan, Ann Arbor. My research interest lies in grpah neural networks and interpretable AI.
+I am Jin Huang, an junior student majoring in Computer Science at University of Michigan, Ann Arbor. My research interest lies in grpah neural networks and interpretable AI. I am an research intern at [Foreseer Group](http://foreseer.si.umich.edu), advised by [Qiaozhu Mei](http://www-personal.umich.edu/~qmei/). I also hold a dual degree of Electronic and Computer Engineering from Shanghai Jiao Tong University, where I worked with [Quanshi Zhang](http://qszhang.com).
+
+I am looking for research opportunities for 2023 Summer. Please feel free to contact me if you have any openings!
