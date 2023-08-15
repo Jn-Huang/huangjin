@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Jin Huang, a senior student majoring in Computer Science at University of Michigan, Ann Arbor. I am interested in conducting research on various topics related to deep learning for graphs, interpretable artificial intelligence (XAI), and the integration of Large Language Model (LLM) in these areas. 
+Hi! I am Jin Huang, a senior student majoring in Computer Science at University of Michigan, Ann Arbor. I am interested in conducting research on various topics related to deep learning for graphs, interpretable artificial intelligence (XAI), and the integration of Large Language Model (LLM) in these areas. **I am looking for PhD positions for 2024 Fall.**
 
 I am a research intern at [Foreseer Group](http://foreseer.si.umich.edu), advised by [Qiaozhu Mei](http://www-personal.umich.edu/~qmei/) and [Jiaqi Ma](https://www.jiaqima.com). I am currently working on evaluating and improving LLM's ability on solving graph-related problems, such as node classification.  
 
