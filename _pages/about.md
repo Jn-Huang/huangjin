@@ -14,10 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Jin Huang, a senior student majoring in Computer Science at University of Michigan, Ann Arbor. I am interested in conducting research on various topics related to deep learning for graphs, interpretable artificial intelligence (XAI), and the integration of Large Language Model (LLM) in these areas. **I am looking for PhD positions for Fall 2024.**
+Hi! I am Jin Huang, an incoming Ph.D. student at the School of Information at the University of Michigan, advised by Professor [Qiaozhu Mei](http://www-personal.umich.edu/~qmei/). I am interested in various topics including graph ML, LLMs for scientific discovery and explainable ML.
 
-I am a research intern at [Foreseer Group](http://foreseer.si.umich.edu), advised by [Qiaozhu Mei](http://www-personal.umich.edu/~qmei/) and [Jiaqi Ma](https://www.jiaqima.com). I am currently working on evaluating and improving LLM's ability on solving graph-related problems, such as node classification.  
 
-During 2023 summer, I work with [Danai Koutra](https://web.eecs.umich.edu/~dkoutra/) on OOD problems in link prediciton. 
-
-I also hold a dual degree of Electronic and Computer Engineering from Shanghai Jiao Tong University, where I worked with [Quanshi Zhang](http://qszhang.com).
+Previouly, I received bachelor degrees in CS from University of Michigan, Ann Arbor, and in ECE from Shanghai Jiao Tong University. During my undergrad, I am also fortunate to work with Professor [Jiaqi Ma](https://www.jiaqima.com) and Professor [Danai Koutra](https://web.eecs.umich.edu/~dkoutra/).
