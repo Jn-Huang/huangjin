@@ -11,7 +11,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 Hi! I am Jin Huang, an incoming Ph.D. student at the School of Information at the University of Michigan, advised by Professor [Qiaozhu Mei](http://www-personal.umich.edu/~qmei/). I am interested in various topics including graph ML, LLMs for scientific discovery and explainable ML.
