@@ -18,4 +18,4 @@ Hi! I am Jin Huang, a Ph.D. student at the University of Michigan in the [Forese
 
 Previously, I completed bachelor’s degrees at the University of Michigan, Ann Arbor, and Shanghai Jiao Tong University. I’ve also had the privilege of working with Prof. [Jiaqi Ma](https://www.jiaqima.com) and Prof. [Danai Koutra](https://web.eecs.umich.edu/~dkoutra/). I interned at DP Technology and Intel.
 
-In my free time, I enjoy watching movies. As Edward Yang put it, "we live three times as long since man invented movies." I owe my gratitude to the late-night series at the [State Theatre](https://marquee-arts.org/state-theatre/). 
+In my free time, I enjoy watching movies. As Edward Yang put it, "we live three times as long since man invented movies." I owe my gratitude to the late-night series at the [State Theatre](https://marquee-arts.org/state-theatre/). I was born in Nanking and lived there until university.
