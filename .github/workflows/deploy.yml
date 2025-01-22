@@ -21,6 +21,13 @@ jobs:
       with:
         ruby-version: '3.0.2'
         bundler-cache: true
+    - name: Install dependencies
+      run: |
+        gem update --system
+        gem install bundler
+        bundle install
+    - name: Build site
+      run: bundle exec jekyll build
     - name: Install deps
       run: |
         npm install -g mermaid.cli
